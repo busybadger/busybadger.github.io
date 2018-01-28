@@ -1,2 +1,2 @@
 # busybadger.github.io
-BusyBadgerBlog
+This is a !st attempt at hosting on GitHub Pages
